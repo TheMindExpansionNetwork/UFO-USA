@@ -1,0 +1,1040 @@
+{
+  "generated_at": "2026-05-08T17:26:55.138099+00:00",
+  "archive": {
+    "source_repo": "https://github.com/DenisSergeevitch/UFO-USA",
+    "fork_repo": "https://github.com/TheMindExpansionNetwork/UFO-USA",
+    "source_page_claimed_by_repo": "https://www.war.gov/UFO/",
+    "converted_pages_present": 1048,
+    "inventory_rows": 162,
+    "asset_count_present": 6,
+    "types": {
+      "PDF": 120,
+      "VID": 28,
+      "IMG": 14
+    },
+    "agencies": {
+      "FBI": 56,
+      "Department of War": 82,
+      "NASA": 12,
+      "Department of State": 8,
+      "unknown": 4
+    },
+    "license_note": "No LICENSE file detected in the upstream clone at build time; use as a forked archive/research surface and preserve source attribution."
+  },
+  "top_terms": [
+    [
+      "illegible",
+      686
+    ],
+    [
+      "handwritten",
+      487
+    ],
+    [
+      "nbsp",
+      367
+    ],
+    [
+      "office",
+      287
+    ],
+    [
+      "received",
+      274
+    ],
+    [
+      "justice",
+      273
+    ],
+    [
+      "united",
+      261
+    ],
+    [
+      "states",
+      251
+    ],
+    [
+      "left",
+      245
+    ],
+    [
+      "stamp",
+      234
+    ],
+    [
+      "director",
+      229
+    ],
+    [
+      "bottom",
+      228
+    ],
+    [
+      "date",
+      215
+    ],
+    [
+      "dept",
+      209
+    ],
+    [
+      "right",
+      201
+    ],
+    [
+      "bureau",
+      200
+    ],
+    [
+      "government",
+      179
+    ],
+    [
+      "investigation",
+      174
+    ],
+    [
+      "confidential",
+      153
+    ],
+    [
+      "federal",
+      148
+    ],
+    [
+      "august",
+      139
+    ],
+    [
+      "department",
+      135
+    ],
+    [
+      "ladd",
+      130
+    ],
+    [
+      "margin",
+      127
+    ],
+    [
+      "letter",
+      121
+    ],
+    [
+      "your",
+      120
+    ],
+    [
+      "form",
+      117
+    ],
+    [
+      "center",
+      115
+    ],
+    [
+      "redacted",
+      113
+    ],
+    [
+      "security",
+      111
+    ],
+    [
+      "july",
+      110
+    ],
+    [
+      "dear",
+      108
+    ],
+    [
+      "text",
+      96
+    ],
+    [
+      "they",
+      95
+    ],
+    [
+      "washington",
+      93
+    ],
+    [
+      "tolson",
+      91
+    ],
+    [
+      "standard",
+      90
+    ],
+    [
+      "copy",
+      87
+    ],
+    [
+      "internal",
+      86
+    ],
+    [
+      "california",
+      85
+    ]
+  ],
+  "top_pages": [
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0012",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 12,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0012.md",
+      "chars": 301768,
+      "keyword_counts": {
+        "ufo": 1,
+        "unidentified": 3,
+        "flying": 11,
+        "saucer": 13,
+        "object": 14,
+        "light": 4413,
+        "aircraft": 1,
+        "sighting": 3,
+        "air force": 1
+      },
+      "score": 4468,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 12 Page 12 of 184 # AFSCA CONVENTION SPEAKERS 1. WAYNE S. AHO; The New Age Foundation, Inc.; 8 Smith St.; Seattle, Wash. 98109. Publish: \"The Aquarian Dawn\" (Donation basis). 2. CARL A. ANDERSON; 2522 E. Pearson Ave.; Fullerton, Calif. 3. ORTEGO ANGELUCCI; 4160 Verdugo Road; Los Angeles, Calif. 90065. 4. MICHAEL \"X\" BARTON; Futur"
+    },
+    {
+      "id": "004-65_HS1-834228961_62-HQ-83894_Section_4::page-0158",
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page": 158,
+      "path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0158.md",
+      "chars": 116019,
+      "keyword_counts": {
+        "ufo": 1,
+        "flying": 1704,
+        "disk": 1704,
+        "fbi": 1
+      },
+      "score": 3418,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_4 - Page 158 Office Memorandum UNITED STATES GOVERNMENT TO: Director, FBI FROM: SAC, Los Angeles DATE: May 13, 1950 SUBJECT: FLYING DISK, UFO On May 2, 1950, [Name] advised that [Name] had observed a \"flying disk\" [illegible] [Name] advised that [Name] had observed a \"flying disk\" [illegible] [Name] advised that [Name] had observed a \"flyi"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0014",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 14,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0014.md",
+      "chars": 158648,
+      "keyword_counts": {
+        "ufo": 21,
+        "unidentified": 10,
+        "flying": 42,
+        "disc": 1,
+        "disk": 4,
+        "saucer": 30,
+        "object": 41,
+        "light": 18,
+        "balloon": 1,
+        "photograph": 3,
+        "film": 1,
+        "sighting": 14,
+        "witness": 1,
+        "air force": 13
+      },
+      "score": 208,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 14 Page 14 of 184 # Flying Saucer Convention **New York Times Service** LOS ANGELES, Calif. \u2014 The \"urgent problem\" of improving communications with the thousands of visitors from outer space who supposedly are circling the earth was afforded solemn deliberation here this weekend at a special convention of flying saucer buffs. Amo"
+    },
+    {
+      "id": "003-65_HS1-834228961_62-HQ-83894_Section_3::page-0163",
+      "asset": "003-65_HS1-834228961_62-HQ-83894_Section_3",
+      "page": 163,
+      "path": "converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0163.md",
+      "chars": 12395,
+      "keyword_counts": {
+        "flying": 66,
+        "disc": 66,
+        "sighting": 2,
+        "fbi": 3
+      },
+      "score": 145,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_3 - Page 163 FBI LABORATORY DIVISION [Stamp: SEP 25 10 33 AM '47] [Stamp: RECEIVED-HARBO] [Stamp: RECEIVED] [Stamp: LIAISON SECTION] [Stamp: OCT 8 1 02 AM '47] [Stamp: RECEIVE] [Stamp: EP 25 10 25 AM '47] [Stamp: NICAL ABORATOR] [Stamp: B I] [Stamp: S DEPT OF JUSTICE] FBI DEPT OF JUSTICE It is recommended that the following information be "
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0013",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 13,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0013.md",
+      "chars": 13880,
+      "keyword_counts": {
+        "ufo": 7,
+        "unidentified": 3,
+        "flying": 21,
+        "disc": 5,
+        "saucer": 20,
+        "object": 22,
+        "light": 7,
+        "radar": 2,
+        "aircraft": 1,
+        "meteor": 2,
+        "photograph": 1,
+        "film": 2,
+        "sighting": 11,
+        "witness": 2,
+        "air force": 21,
+        "propulsion": 1,
+        "project blue book": 1
+      },
+      "score": 137,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 13 THE WALL STREET JOURNAL Monday, December 13, 1965 # New 'Fireball' Raises An Old Question: Do Flying Saucers Exist? **Californian, 'Who Talks' to Men From the Stars, Says 'Yes'; Scientists Assail Air Force** By ELLIOT CARLSON STAFF REPORTER OF THE WALL STREET JOURNAL They're back. The latest was sighted a few nights ago by res"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0015",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 15,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0015.md",
+      "chars": 22935,
+      "keyword_counts": {
+        "ufo": 8,
+        "unidentified": 4,
+        "flying": 20,
+        "disc": 1,
+        "saucer": 27,
+        "object": 20,
+        "light": 17,
+        "radar": 2,
+        "meteor": 1,
+        "balloon": 2,
+        "photograph": 2,
+        "sighting": 9,
+        "air force": 1
+      },
+      "score": 122,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 15 Document title: 65_HS1-834228961_62-HQ-83894_Section_10 Page: 15 of 184 *** ### [Top Left Clipping] **Head Saucerer Believes Martians Are Watching Us** **By Harold Scarlett** Was Jesus Christ a Martian? \"It's hard to say,\" said Gabriel Green thoughtfully. Then he added that it certainly seems plausible. It's no trick at all to"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0011",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 11,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0011.md",
+      "chars": 9475,
+      "keyword_counts": {
+        "ufo": 7,
+        "unidentified": 2,
+        "flying": 14,
+        "disc": 2,
+        "saucer": 11,
+        "object": 16,
+        "light": 17,
+        "radar": 5,
+        "photograph": 3,
+        "sighting": 8,
+        "witness": 3,
+        "air force": 7,
+        "fbi": 1,
+        "propulsion": 1
+      },
+      "score": 103,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 11 Document title: 65_HS1-834228961_62-HQ-83894_Section_10 Source file: 65_HS1-834228961_62-HQ-83894_Section_10.pdf Page: 11 of 184 Agency: FBI Release date: 5/8/26 Dataset description: Incident date: N/A; Incident location: N/A [Top Left] CENTENNIAL COLISEUM RENO, NEVADA [Top Right] BUY EASTER SEALS Western Ontario Newspaper Ser"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0086",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 86,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0086.md",
+      "chars": 7689,
+      "keyword_counts": {
+        "ufo": 13,
+        "unidentified": 2,
+        "flying": 7,
+        "disc": 1,
+        "saucer": 9,
+        "object": 10,
+        "light": 9,
+        "aircraft": 1,
+        "photograph": 6,
+        "film": 3,
+        "sighting": 3,
+        "witness": 4,
+        "air force": 1
+      },
+      "score": 74,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 86 134 | ufo contact ities of the dark shape behind them. There was a tiny white light behind which did not seem to be attached to the object in any way; but at the night was very dark, she admits that this could also have been a star. The colored lights were not blinking, and the object seemed not to move, although she of course"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0084",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 84,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0084.md",
+      "chars": 10193,
+      "keyword_counts": {
+        "ufo": 7,
+        "flying": 4,
+        "saucer": 10,
+        "object": 3,
+        "light": 5,
+        "meteor": 4,
+        "photograph": 5,
+        "film": 17,
+        "sighting": 2,
+        "witness": 1,
+        "air force": 2,
+        "propulsion": 1
+      },
+      "score": 67,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 84 136 ufo contact the principles involved in weight-distribution and surface manipulation, i.e. expert engineers producing the revolutionary Hovercraft. \"Some of my readers will have been way ahead of me in these past assessments and no doubt will have anticipated my next intention. Yet others will be a trifle impatient that the"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0085",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 85,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0085.md",
+      "chars": 9061,
+      "keyword_counts": {
+        "ufo": 11,
+        "unidentified": 1,
+        "flying": 7,
+        "disc": 1,
+        "saucer": 8,
+        "object": 8,
+        "film": 14,
+        "air force": 5,
+        "project blue book": 1
+      },
+      "score": 62,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 85 118 | ufo contact ground were and all in all said, to be convinced that we had shown them are ships of extraterrestrial origin they needed more positive proof or evidence. One person came up with the scout being a volkswagen, you know how they have to make jokes. But we were treated very nice and in respect, - one person said "
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0087",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 87,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0087.md",
+      "chars": 5731,
+      "keyword_counts": {
+        "ufo": 11,
+        "unidentified": 1,
+        "flying": 3,
+        "disc": 4,
+        "object": 4,
+        "light": 6,
+        "radar": 1,
+        "meteor": 1,
+        "balloon": 1,
+        "photograph": 3,
+        "film": 6,
+        "sighting": 5,
+        "witness": 5,
+        "air force": 6,
+        "army": 1
+      },
+      "score": 61,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 87 120 ufo contact [Image: Still photographs from 8mm film] These still photographs are taken from the screen projection of the 8 mm colour film of september 7th 1966. Taken with a REVERE 8 mm cine-camera, automatic 30 mm powerzoom lens, by Fred Steckling of Alexandria, Virginia, U.S.A. [Image: Film exposure from train] The 23 fe"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0088",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 88,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0088.md",
+      "chars": 10377,
+      "keyword_counts": {
+        "ufo": 17,
+        "unidentified": 1,
+        "flying": 8,
+        "disc": 5,
+        "saucer": 9,
+        "object": 3,
+        "light": 1,
+        "radar": 4,
+        "photograph": 2
+      },
+      "score": 56,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 88 132 | ufo contact **LIFE'S GIFTS.** Each of us receives life's gifts on Earth. A belief in a continued spiritual life after the comparatively short time of 70 years of physical life here on Earth, compared with the endless cycle of eternity, makes the actions of the moment an investment with far-reaching consequences. The cert"
+    },
+    {
+      "id": "002-65_HS1-834228961_62-HQ-83894_Section_2::page-0194",
+      "asset": "002-65_HS1-834228961_62-HQ-83894_Section_2",
+      "page": 194,
+      "path": "converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0194.md",
+      "chars": 5879,
+      "keyword_counts": {
+        "flying": 15,
+        "disc": 7,
+        "disk": 1,
+        "saucer": 8,
+        "object": 8,
+        "light": 1,
+        "radar": 1,
+        "photograph": 1,
+        "witness": 3,
+        "air force": 1,
+        "navy": 1,
+        "army": 2,
+        "oak ridge": 1,
+        "propulsion": 1
+      },
+      "score": 54,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_2 - Page 194 Director, [illegible] FROM: SAC, Baltimore SUBJECT: FLYING DISCS MISCELLANEOUS DATE: 9/4/47 *** **Flying Mayonnaise Jars Reported by Rehoboth Pilot** **Forrest Wenyon Believes Mystery Discs, Jet-Propelled, May Have Caused Big Plane Crash on Memorial Day** Veteran Delaware pilot, Forrest Wenyon of 123 Rehoboth Avenue, Rehoboth "
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0009",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 9,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0009.md",
+      "chars": 12842,
+      "keyword_counts": {
+        "ufo": 3,
+        "flying": 13,
+        "disc": 1,
+        "saucer": 20,
+        "light": 3,
+        "photograph": 1,
+        "air force": 1
+      },
+      "score": 50,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 9 SPECIAL AFSCA CONVENTION MESSAGE BRIGHT WORLD IN HANDS OF SAUCER MOVEMENT (Editor's Note: This special message was received from Master Kalen-Li Retan (head of the planet Korendor, about 400 light years distant) on May 4, 1966 via special directional short-wave radio by Bob Renaud, the young electronic-technician whose remarkab"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0099",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 99,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0099.md",
+      "chars": 5053,
+      "keyword_counts": {
+        "flying": 8,
+        "disk": 2,
+        "saucer": 18,
+        "light": 4,
+        "aircraft": 9,
+        "balloon": 1,
+        "air force": 1,
+        "navy": 3,
+        "army": 1
+      },
+      "score": 50,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 99 VOLUME XXVIII\u2014No. 14 | U.S. News & World Report | WASHINGTON, D. C. # FLYING SAUCERS\u2014THE REAL STORY: U.S. BUILT FIRST ONE IN 1942 ## Jet-Propelled Disks Can Outfly Other Planes Observers of \"flying saucers\" aren't just seeing things. They're real\u2014aircraft that conform to accepted laws. Sky disks, manned by regular pilots, can h"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0030",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 30,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0030.md",
+      "chars": 4239,
+      "keyword_counts": {
+        "ufo": 6,
+        "unidentified": 5,
+        "flying": 6,
+        "disc": 1,
+        "saucer": 2,
+        "object": 5,
+        "light": 2,
+        "meteor": 2,
+        "balloon": 1,
+        "sighting": 5,
+        "air force": 12,
+        "project blue book": 1
+      },
+      "score": 50,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 30 | Column 1 | Column 2 | Column 3 | | :--- | :--- | :--- | | of the 11,000 sightings since 1947, did have some explanations. The mysterious flaming object in the East was \"probably a meteor.\"<br><br>As for Michigan's much-publicized and plentiful unidentified flying objects, they turned out to be monkeyshines instead of moonshi"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0010",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 10,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0010.md",
+      "chars": 14176,
+      "keyword_counts": {
+        "ufo": 1,
+        "unidentified": 1,
+        "flying": 14,
+        "disc": 2,
+        "saucer": 17,
+        "object": 2,
+        "light": 3,
+        "photograph": 1
+      },
+      "score": 49,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 10 # FLYING SAUCER NEWS IN BRIEF ### COMING 1966 FLYING SAUCER CONVENTIONS JULY 8, 9, 10: AFSA's 3rd National Convention, Centennial Coliseum, Reno, Nev. (See details on back) JULY 15, 16, 17: WAYNE AHO sponsors the Northwest's 5th Annual Interplanetary Age Convention. Lectures, exhibits and New Age topics. Advance registrations "
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0093",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 93,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0093.md",
+      "chars": 10647,
+      "keyword_counts": {
+        "ufo": 16,
+        "flying": 1,
+        "disc": 16,
+        "saucer": 1,
+        "object": 2,
+        "radar": 1,
+        "photograph": 1,
+        "air force": 2
+      },
+      "score": 47,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 93 ### Page 126 126 | ufo contact Prof. Dr. Allen J. Hynek astronomer, UFO investigator since 20 years at Air Force. USA. Donald E. Keyhoe US major ret., pioneer UFO researcher, founder of NICAP. USA. Jacques Vallee mathematician and astronomer of Northwestern University, Mars Map Project. USA. **C. PIONEER UFO RESEARCHERS IN GLO"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0082",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 82,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0082.md",
+      "chars": 10224,
+      "keyword_counts": {
+        "ufo": 7,
+        "flying": 5,
+        "disc": 1,
+        "saucer": 1,
+        "object": 8,
+        "light": 7,
+        "aircraft": 1,
+        "meteor": 1,
+        "photograph": 1,
+        "film": 6,
+        "sighting": 1,
+        "air force": 2
+      },
+      "score": 47,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 82 138 ufo contact photosynthetic process to produce at least simple plant forms. \"The significance of my findings, if correct\", Dr. Johnson declared, \"is that a case for life chemistry in space can not only be inferred but the end product can be looked upon as a form of life similar to that on earth\". Johnson made his discoverie"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0101",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 101,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0101.md",
+      "chars": 3100,
+      "keyword_counts": {
+        "flying": 3,
+        "disc": 1,
+        "saucer": 12,
+        "light": 1,
+        "aircraft": 9,
+        "air force": 5,
+        "navy": 10
+      },
+      "score": 43,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 101 U. S. News & World Report FANCY: SPACE SHIPS, MONSTERS, MARTIANS, MAYHEM is not yet publicly disclosed. It cannot be proved until a public announcement is made or until a saucer crashes away from its home base\u2014which is highly unlikely because of its jet helicopter action that makes take-offs and landings almost completely safe"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0147",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 147,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0147.md",
+      "chars": 3331,
+      "keyword_counts": {
+        "unidentified": 4,
+        "flying": 1,
+        "object": 18,
+        "light": 3,
+        "radar": 7,
+        "aircraft": 2,
+        "sighting": 4,
+        "witness": 1
+      },
+      "score": 42,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 147 CONFIDENTIAL DIC/17ND No. 4-50 10 February 1950 Subj: Unidentified Phenomena 2. A summary of the information contained in enclosure (1) through (8) follows: a. At 220240W January LT Smith, USN, patrol plane commander of P2V3 No. 4 of Patrol Squadron One reported an unidentified radar contact 20 miles north of the Naval Air Sta"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0092",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 92,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0092.md",
+      "chars": 11230,
+      "keyword_counts": {
+        "ufo": 19,
+        "flying": 4,
+        "disc": 2,
+        "object": 2,
+        "light": 3,
+        "photograph": 2,
+        "witness": 1
+      },
+      "score": 40,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 92 128 ufo contact fantasy, others think that initially it had some meaning. Two centuries ago the mystery attracted the German astronomer, Johan Kepler, while more recently, scientists held an international symposium to discuss the matter. But neither Kepler nor contemporary scientists found the key to the problem, which may tur"
+    },
+    {
+      "id": "004-65_HS1-834228961_62-HQ-83894_Section_4::page-0177",
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page": 177,
+      "path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0177.md",
+      "chars": 4182,
+      "keyword_counts": {
+        "flying": 1,
+        "saucer": 31,
+        "object": 1,
+        "light": 5
+      },
+      "score": 40,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_4 - Page 177 Page 177 of 214 FLIGHT INSTRUCTIONS FLYIN' SAUCERS have flight characteristics very similar to airplanes. The SAUCER IS launched in identically the same manner as sailing your hat onto a hook--by spinning and forward motion. In order to fly in a straight line, the SAUCER must leave the hand in a level position. To curve the SA"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0029",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 29,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0029.md",
+      "chars": 3946,
+      "keyword_counts": {
+        "unidentified": 1,
+        "flying": 2,
+        "object": 31,
+        "light": 2,
+        "sighting": 2
+      },
+      "score": 40,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 29 CONFIDENTIAL DIO-11ND Serial 38-49 23 June 1949 Subject: Unidentified Flying Objects - Report of. The valley through which source flew north, and the objects flew south, is roughly 12 miles wide. The floor of the valley is between 4000' to 5000' in elevation. The east side of the valley is dominated by Hart Mountain (8020' in e"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0028",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 28,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0028.md",
+      "chars": 3886,
+      "keyword_counts": {
+        "unidentified": 2,
+        "flying": 4,
+        "object": 25,
+        "light": 2,
+        "aircraft": 3,
+        "sighting": 1
+      },
+      "score": 39,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 28 CONFIDENTIAL DIO-11ND Serial 30-49 23 June 1949 Subject: Unidentified Flying Objects - Report of. REPORT: Unidentified Flying Objects Observed in Oregon 27 May 1949. On Friday, 27 May 1949, source was flying his own SNJ-type aircraft from Red Bluff, California to Burns, Oregon, a distance of 305 miles. He left Red Bluff at 1332"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0177",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 177,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0177.md",
+      "chars": 2212,
+      "keyword_counts": {
+        "ufo": 10,
+        "unidentified": 3,
+        "flying": 1,
+        "disc": 2,
+        "object": 1,
+        "sighting": 3,
+        "air force": 10,
+        "project blue book": 5
+      },
+      "score": 36,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 177 UFO FACT SHEET On December 17, 1969 the Secretary of the Air Force announced the termination of Project Blue Book, the Air Force program for the investigation of UFOs. The decision to discontinue UFO investigations was based on an evaluation of a report prepared by the University of Colorado entitled, \"Scientific Study of Uni"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0029",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 29,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0029.md",
+      "chars": 3987,
+      "keyword_counts": {
+        "ufo": 2,
+        "unidentified": 1,
+        "flying": 3,
+        "saucer": 3,
+        "object": 9,
+        "light": 6,
+        "meteor": 1,
+        "sighting": 4,
+        "witness": 2,
+        "air force": 1
+      },
+      "score": 34,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 29 ARMED FORCES ### Focus on UFO Winking, blinking and nodding \u2014 red lights over Pasadena, blue lights over Greensboro, silver cigars over Detroit \u2014 people kept seeing strange flying objects, and officials kept saying nothing was out there. But in recent years, and particularly since last summer, the pressure had been mounting fo"
+    },
+    {
+      "id": "004-65_HS1-834228961_62-HQ-83894_Section_4::page-0084",
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page": 84,
+      "path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0084.md",
+      "chars": 3834,
+      "keyword_counts": {
+        "flying": 2,
+        "saucer": 2,
+        "aircraft": 1,
+        "photograph": 13,
+        "film": 2,
+        "air force": 1,
+        "fbi": 2,
+        "army": 2,
+        "oak ridge": 5,
+        "propulsion": 1
+      },
+      "score": 33,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_4 - Page 84 [Top Left: h] STANDARD FORM NO. 64 Office Memorandum \u2022 UNITED STATES GOVERNMENT TO : DIRECTOR FBI FROM : SAC KNOXVILLE DATE: January 10, 1948 SUBJECT: \"FLYING SAUCERS\" OBSERVED OVER OAK RIDGE AREA INTERNAL SECURITY - X [Handwritten above subject: Soviet War Plans] [Handwritten above subject: Guided missiles] [Right Margin Routi"
+    },
+    {
+      "id": "003-65_HS1-834228961_62-HQ-83894_Section_3::page-0091",
+      "asset": "003-65_HS1-834228961_62-HQ-83894_Section_3",
+      "page": 91,
+      "path": "converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0091.md",
+      "chars": 3581,
+      "keyword_counts": {
+        "flying": 1,
+        "disc": 6,
+        "object": 21,
+        "light": 1,
+        "balloon": 1,
+        "fbi": 1
+      },
+      "score": 33,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_3 - Page 91 Office Memorandum UNITED STATES GOVERNMENT Director, FBI August 27, 1947 Re: Flying Discs - Tacoma, Wn. of the information available regarding the disc fragments and that he understood that DAHL had told the press about the disc fragments, stating there was nothing to the story and that it was a phoney. DAHL immediately replied"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0075",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 75,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0075.md",
+      "chars": 2450,
+      "keyword_counts": {
+        "flying": 8,
+        "disc": 4,
+        "saucer": 8,
+        "object": 1,
+        "light": 1,
+        "balloon": 1,
+        "sighting": 1,
+        "air force": 6,
+        "navy": 1,
+        "army": 1
+      },
+      "score": 33,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 75 STANDARD FORM NO. 64 Office Memorandum \u2022 UNITED STATES GOVERNMENT TO : The Director FROM : D. M. Ladd SUBJECT: FLYING SAUCERS DATE: March 28, 1950 [Handwritten in left margin: mem] Reference is made to your inquiry on the attached routing slip: \"Just what are the facts re 'flying saucers'? A short memo as to whether it is true "
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0191",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 191,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0191.md",
+      "chars": 2246,
+      "keyword_counts": {
+        "flying": 6,
+        "disk": 3,
+        "saucer": 6,
+        "object": 4,
+        "light": 2,
+        "balloon": 1,
+        "photograph": 5,
+        "film": 4,
+        "army": 1
+      },
+      "score": 33,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 191 2 THE LOUISVILLE TIMES # Movies Snapped of Sky Disk By Alert Times Photographer Yes, we have some flying saucers today, and for the first time, here are moving pictures for proof. Many have reported seeing the saucers but it remained for Al Hixenbaugh to do something about it\u2014with his trusty 16 mm. magazine-loading movie camer"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0081",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 81,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0081.md",
+      "chars": 10927,
+      "keyword_counts": {
+        "ufo": 5,
+        "unidentified": 2,
+        "flying": 3,
+        "disc": 4,
+        "saucer": 3,
+        "light": 1,
+        "photograph": 3,
+        "film": 4
+      },
+      "score": 32,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 81 ### Page 114 114 ufo contact Once before, a gracious lady was willing, against much advice, to listen to the sincere words of a man who was still to battle for many years to come for the truth which he propounded. We ask again for that First Lady's gracious attention to certain matters which we believe, as in years gone by, wi"
+    },
+    {
+      "id": "004-65_HS1-834228961_62-HQ-83894_Section_4::page-0005",
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page": 5,
+      "path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0005.md",
+      "chars": 3133,
+      "keyword_counts": {
+        "flying": 10,
+        "disc": 1,
+        "object": 12,
+        "light": 1,
+        "aircraft": 2,
+        "sighting": 1,
+        "fbi": 1,
+        "army": 1,
+        "propulsion": 1
+      },
+      "score": 32,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_4 - Page 5 NO. 64 Office Memorandum \u2022 UNITED STATES GOVERNMENT TO : Director, FBI FROM : SAC, Anchorage [Handwritten 'O'] DATE: 10/18/47 SUBJECT: REPORT OF FLYING DISCS This is to advise that we have been able to locate a flyer, JACK PECK, who is employed by the Al Jones Flying Company in Bethel, Alaska. It had been reported to Military In"
+    },
+    {
+      "id": "001-65_HS1-834228961_62-HQ-83894_Section_10::page-0080",
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page": 80,
+      "path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0080.md",
+      "chars": 10001,
+      "keyword_counts": {
+        "ufo": 11,
+        "unidentified": 2,
+        "flying": 1,
+        "object": 3,
+        "light": 1,
+        "photograph": 2,
+        "film": 2,
+        "sighting": 1,
+        "project blue book": 1
+      },
+      "score": 30,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_10 - Page 80 140 | ufo contact at home and watch your favourite television programme. Then you will forget all about it. But do you ever wonder what becomes of old television programmes - apart from the ones they show on Sundays?! Do they just fade out and vanish - or do they keep travelling through space for ever, perhaps to be picked up "
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0100",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 100,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0100.md",
+      "chars": 3030,
+      "keyword_counts": {
+        "flying": 3,
+        "disk": 2,
+        "saucer": 14,
+        "light": 1,
+        "aircraft": 5,
+        "air force": 1,
+        "navy": 2
+      },
+      "score": 30,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 100 U. S. News & World Rep **FACT: THESE DESIGNS, AND LATER ONES ARE REAL** [Image of a disk-shaped aircraft] DISK-LIKE NAVY FLOUNDER PROJECT WAS 'DROPPED' -U.S. Navy [Image of a model in a wind tunnel] MOCK-UP OF EARLY MODEL IS TESTED IN WIND TUNNEL ... latest models are circular, faster, more maneuverable -NACA photo ing in stil"
+    },
+    {
+      "id": "004-65_HS1-834228961_62-HQ-83894_Section_4::page-0115",
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page": 115,
+      "path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0115.md",
+      "chars": 2925,
+      "keyword_counts": {
+        "unidentified": 4,
+        "flying": 4,
+        "disc": 3,
+        "saucer": 2,
+        "object": 3,
+        "aircraft": 3,
+        "meteor": 1,
+        "sighting": 4,
+        "air force": 1,
+        "fbi": 1,
+        "army": 3
+      },
+      "score": 30,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_4 - Page 115 STANDARD FORM NO. 64 Office Memorandum \u2022 UNITED STATES GOVERNMENT TO: DIRECTOR, FBI FROM: SAC, SAN ANTONIO DATE: January 31, 1949 SUBJECT: PROTECTION OF VITAL INSTALLATIONS BUREAU FILE # 65-58300 [Top Left Marginalia]: ms. [Top Right Marginalia]: [CONFIDENTIAL - crossed out] declassified 2010 8/31/77 [initials] At recent Weekl"
+    },
+    {
+      "id": "002-65_HS1-834228961_62-HQ-83894_Section_2::page-0132",
+      "asset": "002-65_HS1-834228961_62-HQ-83894_Section_2",
+      "page": 132,
+      "path": "converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0132.md",
+      "chars": 3433,
+      "keyword_counts": {
+        "flying": 8,
+        "disc": 7,
+        "saucer": 2,
+        "sighting": 1,
+        "navy": 1,
+        "army": 8
+      },
+      "score": 29,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_2 - Page 132 STANDARD FORM NO. 64 **Office Memorandum** \u2022 UNITED STATES GOVERNMENT TO : D. M. LADD [Handwritten initials] FROM : J. P. COYNE SUBJECT: FLYING SAUCERS AND FLYING DISCS DATE: 8-8-47 [Handwritten initials] [Right-hand column list:] Mr. Tolson Mr. E. A. Tamm Mr. Clegg Mr. Glavin Mr. Ladd Mr. Nichols Mr. Rosen Mr. Tracy Mr. Carso"
+    },
+    {
+      "id": "003-65_HS1-834228961_62-HQ-83894_Section_3::page-0169",
+      "asset": "003-65_HS1-834228961_62-HQ-83894_Section_3",
+      "page": 169,
+      "path": "converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0169.md",
+      "chars": 3164,
+      "keyword_counts": {
+        "flying": 8,
+        "disc": 2,
+        "saucer": 2,
+        "object": 11,
+        "light": 2,
+        "fbi": 1,
+        "army": 1
+      },
+      "score": 29,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_3 - Page 169 FORM NO. 64 Office Memorandum \u2022 UNITED STATES GOVERNMENT TO : Director, FBI FROM : SAC, Salt Lake City SUBJECT: FLYING DISCS. DATE: September 15, 1947 [Handwritten top left: Ja, M] [Handwritten top center: 275, 226, 19, 28] [Handwritten top right: (Signature) Reynolds, (Signature) Fletcher, (circled) 2, e] Remytel tenth instan"
+    },
+    {
+      "id": "005-65_HS1-834228961_62-HQ-83894_Section_5::page-0146",
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page": 146,
+      "path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0146.md",
+      "chars": 3415,
+      "keyword_counts": {
+        "unidentified": 4,
+        "flying": 2,
+        "disc": 2,
+        "object": 3,
+        "radar": 2,
+        "aircraft": 3,
+        "balloon": 2,
+        "sighting": 3,
+        "fbi": 1,
+        "navy": 3
+      },
+      "score": 27,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_5 - Page 146 Received from ONI through Liaison Channels Date 4/24/50 [Handwritten: Herhffch] [Stamp: CONFIDENTIAL (crossed out)] ISSUED BY THE OFFICE OF CHIEF OF NAVAL OPERATIONS NAVY DEPARTMENT INTELLIGENCE REPORT (Reference to this report must specify Serial No., Place and Date.) [Handwritten in left margin: File in Flying Discs] [Vertic"
+    },
+    {
+      "id": "002-65_HS1-834228961_62-HQ-83894_Section_2::page-0129",
+      "asset": "002-65_HS1-834228961_62-HQ-83894_Section_2",
+      "page": 129,
+      "path": "converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0129.md",
+      "chars": 3364,
+      "keyword_counts": {
+        "flying": 4,
+        "disc": 6,
+        "object": 5,
+        "sighting": 2,
+        "air force": 5,
+        "fbi": 1,
+        "navy": 1,
+        "army": 1
+      },
+      "score": 27,
+      "snippet": "# 65_HS1-834228961_62-HQ-83894_Section_2 - Page 129 STANDARD FORM NO. 64 **Office Memorandum** \u2022 UNITED STATES GOVERNMENT TO : D. M. LADD [Handwritten initials] FROM : E. G. FITCH [Handwritten initials] SUBJECT: FLYING DISCS DATE: August 19, 1947 [Handwritten circle with \"RS\"] [Sidebar list of names:] Mr. Tolson Mr. E. A. Tamm Mr. Clegg Mr. Glavin Mr. Ladd Mr. Nichols Mr. Rosen"
+    }
+  ],
+  "assets": [
+    {
+      "asset": "001-65_HS1-834228961_62-HQ-83894_Section_10",
+      "page_count_present": 184,
+      "total_chars": 875650,
+      "max_score": 4468,
+      "sample_path": "converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0001.md"
+    },
+    {
+      "asset": "002-65_HS1-834228961_62-HQ-83894_Section_2",
+      "page_count_present": 194,
+      "total_chars": 276921,
+      "max_score": 54,
+      "sample_path": "converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0001.md"
+    },
+    {
+      "asset": "003-65_HS1-834228961_62-HQ-83894_Section_3",
+      "page_count_present": 190,
+      "total_chars": 552849,
+      "max_score": 145,
+      "sample_path": "converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0001.md"
+    },
+    {
+      "asset": "004-65_HS1-834228961_62-HQ-83894_Section_4",
+      "page_count_present": 214,
+      "total_chars": 700563,
+      "max_score": 3418,
+      "sample_path": "converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0001.md"
+    },
+    {
+      "asset": "005-65_HS1-834228961_62-HQ-83894_Section_5",
+      "page_count_present": 208,
+      "total_chars": 276005,
+      "max_score": 50,
+      "sample_path": "converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0001.md"
+    },
+    {
+      "asset": "006-65_HS1-834228961_62-HQ-83894_Section_6",
+      "page_count_present": 58,
+      "total_chars": 95902,
+      "max_score": 17,
+      "sample_path": "converted/006-65_HS1-834228961_62-HQ-83894_Section_6/page-0001.md"
+    }
+  ]
+}

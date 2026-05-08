@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>UFO/UAP Archive Investigation Stream Kit</title>
+<style>
+:root { color-scheme: dark; --bg:#050712; --panel:#0e1326; --line:#43f7ff; --pink:#ff3df2; --lime:#b7ff38; --text:#edf7ff; --muted:#9bb3c8; }
+* { box-sizing:border-box; }
+body { margin:0; font-family:Inter, ui-sans-serif, system-ui, sans-serif; background:radial-gradient(circle at top left,#172045,#050712 55%); color:var(--text); }
+header { min-height:52vh; display:grid; place-items:center; padding:56px 22px; text-align:center; border-bottom:1px solid rgba(67,247,255,.22); }
+.badge { color:var(--lime); border:1px solid rgba(183,255,56,.45); display:inline-block; padding:8px 12px; border-radius:999px; letter-spacing:.13em; text-transform:uppercase; font-size:12px; }
+h1 { font-size:clamp(38px,8vw,92px); line-height:.9; margin:18px auto; max-width:1100px; text-shadow:0 0 28px rgba(67,247,255,.4); }
+.subtitle { max-width:920px; margin:auto; color:var(--muted); font-size:20px; }
+.grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; max-width:1180px; margin:26px auto 0; }
+.stat { background:rgba(14,19,38,.78); border:1px solid rgba(67,247,255,.24); padding:18px; border-radius:18px; }
+.stat b { display:block; font-size:30px; color:#fff; }
+section { max-width:1240px; margin:0 auto; padding:36px 22px; }
+h2 { font-size:34px; margin:0 0 14px; }
+.pipeline { display:grid; grid-template-columns:repeat(5,1fr); gap:12px; }
+.step { background:linear-gradient(180deg,rgba(255,61,242,.14),rgba(67,247,255,.08)); border:1px solid rgba(255,255,255,.13); padding:16px; border-radius:18px; min-height:132px; }
+.step b { color:var(--line); }
+.case-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; }
+.case-card { background:rgba(14,19,38,.86); border:1px solid rgba(67,247,255,.20); border-radius:18px; padding:16px; box-shadow:0 12px 40px rgba(0,0,0,.28); }
+.case-card h3 { font-size:15px; overflow-wrap:anywhere; }
+.meta,.case-card p { color:var(--muted); }
+.score { float:right; color:var(--pink); font-weight:800; font-size:12px; text-transform:uppercase; }
+a { color:var(--line); }
+code { display:block; white-space:normal; color:var(--lime); font-size:12px; }
+.terms { display:flex; flex-wrap:wrap; gap:10px; }
+.terms span { border:1px solid rgba(255,255,255,.15); border-radius:999px; padding:9px 12px; background:rgba(255,255,255,.05); }
+.warning { border-left:4px solid var(--pink); background:rgba(255,61,242,.10); padding:16px; border-radius:12px; color:#ffd7fb; }
+footer { color:var(--muted); padding:40px 22px; text-align:center; }
+@media(max-width:900px) { .grid,.pipeline,.case-grid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class='badge'>Jimsky / Hermes investigation stream kit</div>
+    <h1>UFO/UAP Archive Signal Room</h1>
+    <p class='subtitle'>A stream-ready dashboard for exploring a public UFO/UAP markdown archive: searchable records, OCR caveats, AI-analysis queues, enhancement lanes, and viewer-safe investigation cards.</p>
+    <div class='grid'>
+      <div class='stat'><b>1048</b>converted pages present</div>
+      <div class='stat'><b>162</b>inventory rows</div>
+      <div class='stat'><b>6</b>record folders present</div>
+      <div class='stat'><b>40</b>high-signal cards</div>
+    </div>
+  </div>
+</header>
+<section>
+  <h2>Stream format</h2>
+  <div class='pipeline'>
+    <div class='step'><b>1. Source Wall</b><br>Show source URL, repo, document title, page path, and OCR status.</div>
+    <div class='step'><b>2. AI Read</b><br>Summarize claim, entities, locations, dates, agencies, and uncertainty.</div>
+    <div class='step'><b>3. Evidence Split</b><br>Separate direct document text from speculation, lore, and chat ideas.</div>
+    <div class='step'><b>4. Enlarge / Enhance</b><br>Route images/pages to ComfyUI upscaling, OCR cleanup, contrast, crop, and comparison panels.</div>
+    <div class='step'><b>5. Viewer Queue</b><br>Chat can request pages/topics; no shell, no claims of proof, no doxxing.</div>
+  </div>
+</section>
+<section>
+  <h2>High-signal archive cards</h2>
+  <p class='warning'>Important: generated Markdown is AI-assisted OCR. Use original PDFs/images as authoritative records when exact wording matters. This show investigates documents; it does not claim any sighting is proven.</p>
+  <div class='case-grid'>
+        <article class='case-card'>
+          <div class='score'>signal 4468</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 12 · 301768 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0012.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 12 Page 12 of 184 # AFSCA CONVENTION SPEAKERS 1. WAYNE S. AHO; The New Age Foundation, Inc.; 8 Smith St.; Seattle, Wash. 98109. Publish: &quot;The Aquarian Dawn&quot; (Donation basis). 2. CARL A. ANDERSON; 2522 E. Pearson Ave.; Fullerton, Calif. 3. ORTEGO ANGELUCCI; 4160 Verdugo Road; Los Angeles, Calif. 90065. 4. MICHAEL &quot;X&quot; BARTON; Futur</p>
+          <code>ufo:1, unidentified:3, flying:11, saucer:13, object:14, light:4413, aircraft:1, sighting:3, air force:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 3418</div>
+          <h3>004-65_HS1-834228961_62-HQ-83894_Section_4</h3>
+          <p class='meta'>page 158 · 116019 OCR chars · <a href='../converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0158.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_4 - Page 158 Office Memorandum UNITED STATES GOVERNMENT TO: Director, FBI FROM: SAC, Los Angeles DATE: May 13, 1950 SUBJECT: FLYING DISK, UFO On May 2, 1950, [Name] advised that [Name] had observed a &quot;flying disk&quot; [illegible] [Name] advised that [Name] had observed a &quot;flying disk&quot; [illegible] [Name] advised that [Name] had observed a &quot;flyi</p>
+          <code>ufo:1, flying:1704, disk:1704, fbi:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 208</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 14 · 158648 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0014.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 14 Page 14 of 184 # Flying Saucer Convention **New York Times Service** LOS ANGELES, Calif. — The &quot;urgent problem&quot; of improving communications with the thousands of visitors from outer space who supposedly are circling the earth was afforded solemn deliberation here this weekend at a special convention of flying saucer buffs. Amo</p>
+          <code>ufo:21, unidentified:10, flying:42, disc:1, disk:4, saucer:30, object:41, light:18, balloon:1, photograph:3, film:1, sighting:14, witness:1, air force:13</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 145</div>
+          <h3>003-65_HS1-834228961_62-HQ-83894_Section_3</h3>
+          <p class='meta'>page 163 · 12395 OCR chars · <a href='../converted/003-65_HS1-834228961_62-HQ-83894_Section_3/page-0163.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_3 - Page 163 FBI LABORATORY DIVISION [Stamp: SEP 25 10 33 AM &#x27;47] [Stamp: RECEIVED-HARBO] [Stamp: RECEIVED] [Stamp: LIAISON SECTION] [Stamp: OCT 8 1 02 AM &#x27;47] [Stamp: RECEIVE] [Stamp: EP 25 10 25 AM &#x27;47] [Stamp: NICAL ABORATOR] [Stamp: B I] [Stamp: S DEPT OF JUSTICE] FBI DEPT OF JUSTICE It is recommended that the following information be </p>
+          <code>flying:66, disc:66, sighting:2, fbi:3</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 137</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 13 · 13880 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0013.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 13 THE WALL STREET JOURNAL Monday, December 13, 1965 # New &#x27;Fireball&#x27; Raises An Old Question: Do Flying Saucers Exist? **Californian, &#x27;Who Talks&#x27; to Men From the Stars, Says &#x27;Yes&#x27;; Scientists Assail Air Force** By ELLIOT CARLSON STAFF REPORTER OF THE WALL STREET JOURNAL They&#x27;re back. The latest was sighted a few nights ago by res</p>
+          <code>ufo:7, unidentified:3, flying:21, disc:5, saucer:20, object:22, light:7, radar:2, aircraft:1, meteor:2, photograph:1, film:2, sighting:11, witness:2, air force:21, propulsion:1, project blue book:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 122</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 15 · 22935 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0015.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 15 Document title: 65_HS1-834228961_62-HQ-83894_Section_10 Page: 15 of 184 *** ### [Top Left Clipping] **Head Saucerer Believes Martians Are Watching Us** **By Harold Scarlett** Was Jesus Christ a Martian? &quot;It&#x27;s hard to say,&quot; said Gabriel Green thoughtfully. Then he added that it certainly seems plausible. It&#x27;s no trick at all to</p>
+          <code>ufo:8, unidentified:4, flying:20, disc:1, saucer:27, object:20, light:17, radar:2, meteor:1, balloon:2, photograph:2, sighting:9, air force:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 103</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 11 · 9475 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0011.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 11 Document title: 65_HS1-834228961_62-HQ-83894_Section_10 Source file: 65_HS1-834228961_62-HQ-83894_Section_10.pdf Page: 11 of 184 Agency: FBI Release date: 5/8/26 Dataset description: Incident date: N/A; Incident location: N/A [Top Left] CENTENNIAL COLISEUM RENO, NEVADA [Top Right] BUY EASTER SEALS Western Ontario Newspaper Ser</p>
+          <code>ufo:7, unidentified:2, flying:14, disc:2, saucer:11, object:16, light:17, radar:5, photograph:3, sighting:8, witness:3, air force:7, fbi:1, propulsion:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 74</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 86 · 7689 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0086.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 86 134 | ufo contact ities of the dark shape behind them. There was a tiny white light behind which did not seem to be attached to the object in any way; but at the night was very dark, she admits that this could also have been a star. The colored lights were not blinking, and the object seemed not to move, although she of course</p>
+          <code>ufo:13, unidentified:2, flying:7, disc:1, saucer:9, object:10, light:9, aircraft:1, photograph:6, film:3, sighting:3, witness:4, air force:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 67</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 84 · 10193 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0084.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 84 136 ufo contact the principles involved in weight-distribution and surface manipulation, i.e. expert engineers producing the revolutionary Hovercraft. &quot;Some of my readers will have been way ahead of me in these past assessments and no doubt will have anticipated my next intention. Yet others will be a trifle impatient that the</p>
+          <code>ufo:7, flying:4, saucer:10, object:3, light:5, meteor:4, photograph:5, film:17, sighting:2, witness:1, air force:2, propulsion:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 62</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 85 · 9061 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0085.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 85 118 | ufo contact ground were and all in all said, to be convinced that we had shown them are ships of extraterrestrial origin they needed more positive proof or evidence. One person came up with the scout being a volkswagen, you know how they have to make jokes. But we were treated very nice and in respect, - one person said </p>
+          <code>ufo:11, unidentified:1, flying:7, disc:1, saucer:8, object:8, film:14, air force:5, project blue book:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 61</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 87 · 5731 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0087.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 87 120 ufo contact [Image: Still photographs from 8mm film] These still photographs are taken from the screen projection of the 8 mm colour film of september 7th 1966. Taken with a REVERE 8 mm cine-camera, automatic 30 mm powerzoom lens, by Fred Steckling of Alexandria, Virginia, U.S.A. [Image: Film exposure from train] The 23 fe</p>
+          <code>ufo:11, unidentified:1, flying:3, disc:4, object:4, light:6, radar:1, meteor:1, balloon:1, photograph:3, film:6, sighting:5, witness:5, air force:6, army:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 56</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 88 · 10377 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0088.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 88 132 | ufo contact **LIFE&#x27;S GIFTS.** Each of us receives life&#x27;s gifts on Earth. A belief in a continued spiritual life after the comparatively short time of 70 years of physical life here on Earth, compared with the endless cycle of eternity, makes the actions of the moment an investment with far-reaching consequences. The cert</p>
+          <code>ufo:17, unidentified:1, flying:8, disc:5, saucer:9, object:3, light:1, radar:4, photograph:2</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 54</div>
+          <h3>002-65_HS1-834228961_62-HQ-83894_Section_2</h3>
+          <p class='meta'>page 194 · 5879 OCR chars · <a href='../converted/002-65_HS1-834228961_62-HQ-83894_Section_2/page-0194.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_2 - Page 194 Director, [illegible] FROM: SAC, Baltimore SUBJECT: FLYING DISCS MISCELLANEOUS DATE: 9/4/47 *** **Flying Mayonnaise Jars Reported by Rehoboth Pilot** **Forrest Wenyon Believes Mystery Discs, Jet-Propelled, May Have Caused Big Plane Crash on Memorial Day** Veteran Delaware pilot, Forrest Wenyon of 123 Rehoboth Avenue, Rehoboth </p>
+          <code>flying:15, disc:7, disk:1, saucer:8, object:8, light:1, radar:1, photograph:1, witness:3, air force:1, navy:1, army:2, oak ridge:1, propulsion:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 50</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 9 · 12842 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0009.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 9 SPECIAL AFSCA CONVENTION MESSAGE BRIGHT WORLD IN HANDS OF SAUCER MOVEMENT (Editor&#x27;s Note: This special message was received from Master Kalen-Li Retan (head of the planet Korendor, about 400 light years distant) on May 4, 1966 via special directional short-wave radio by Bob Renaud, the young electronic-technician whose remarkab</p>
+          <code>ufo:3, flying:13, disc:1, saucer:20, light:3, photograph:1, air force:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 50</div>
+          <h3>005-65_HS1-834228961_62-HQ-83894_Section_5</h3>
+          <p class='meta'>page 99 · 5053 OCR chars · <a href='../converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0099.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_5 - Page 99 VOLUME XXVIII—No. 14 | U.S. News &amp; World Report | WASHINGTON, D. C. # FLYING SAUCERS—THE REAL STORY: U.S. BUILT FIRST ONE IN 1942 ## Jet-Propelled Disks Can Outfly Other Planes Observers of &quot;flying saucers&quot; aren&#x27;t just seeing things. They&#x27;re real—aircraft that conform to accepted laws. Sky disks, manned by regular pilots, can h</p>
+          <code>flying:8, disk:2, saucer:18, light:4, aircraft:9, balloon:1, air force:1, navy:3, army:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 50</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 30 · 4239 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0030.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 30 | Column 1 | Column 2 | Column 3 | | :--- | :--- | :--- | | of the 11,000 sightings since 1947, did have some explanations. The mysterious flaming object in the East was &quot;probably a meteor.&quot;&lt;br&gt;&lt;br&gt;As for Michigan&#x27;s much-publicized and plentiful unidentified flying objects, they turned out to be monkeyshines instead of moonshi</p>
+          <code>ufo:6, unidentified:5, flying:6, disc:1, saucer:2, object:5, light:2, meteor:2, balloon:1, sighting:5, air force:12, project blue book:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 49</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 10 · 14176 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0010.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 10 # FLYING SAUCER NEWS IN BRIEF ### COMING 1966 FLYING SAUCER CONVENTIONS JULY 8, 9, 10: AFSA&#x27;s 3rd National Convention, Centennial Coliseum, Reno, Nev. (See details on back) JULY 15, 16, 17: WAYNE AHO sponsors the Northwest&#x27;s 5th Annual Interplanetary Age Convention. Lectures, exhibits and New Age topics. Advance registrations </p>
+          <code>ufo:1, unidentified:1, flying:14, disc:2, saucer:17, object:2, light:3, photograph:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 47</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 93 · 10647 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0093.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 93 ### Page 126 126 | ufo contact Prof. Dr. Allen J. Hynek astronomer, UFO investigator since 20 years at Air Force. USA. Donald E. Keyhoe US major ret., pioneer UFO researcher, founder of NICAP. USA. Jacques Vallee mathematician and astronomer of Northwestern University, Mars Map Project. USA. **C. PIONEER UFO RESEARCHERS IN GLO</p>
+          <code>ufo:16, flying:1, disc:16, saucer:1, object:2, radar:1, photograph:1, air force:2</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 47</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 82 · 10224 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0082.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 82 138 ufo contact photosynthetic process to produce at least simple plant forms. &quot;The significance of my findings, if correct&quot;, Dr. Johnson declared, &quot;is that a case for life chemistry in space can not only be inferred but the end product can be looked upon as a form of life similar to that on earth&quot;. Johnson made his discoverie</p>
+          <code>ufo:7, flying:5, disc:1, saucer:1, object:8, light:7, aircraft:1, meteor:1, photograph:1, film:6, sighting:1, air force:2</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 43</div>
+          <h3>005-65_HS1-834228961_62-HQ-83894_Section_5</h3>
+          <p class='meta'>page 101 · 3100 OCR chars · <a href='../converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0101.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_5 - Page 101 U. S. News &amp; World Report FANCY: SPACE SHIPS, MONSTERS, MARTIANS, MAYHEM is not yet publicly disclosed. It cannot be proved until a public announcement is made or until a saucer crashes away from its home base—which is highly unlikely because of its jet helicopter action that makes take-offs and landings almost completely safe</p>
+          <code>flying:3, disc:1, saucer:12, light:1, aircraft:9, air force:5, navy:10</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 42</div>
+          <h3>005-65_HS1-834228961_62-HQ-83894_Section_5</h3>
+          <p class='meta'>page 147 · 3331 OCR chars · <a href='../converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0147.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_5 - Page 147 CONFIDENTIAL DIC/17ND No. 4-50 10 February 1950 Subj: Unidentified Phenomena 2. A summary of the information contained in enclosure (1) through (8) follows: a. At 220240W January LT Smith, USN, patrol plane commander of P2V3 No. 4 of Patrol Squadron One reported an unidentified radar contact 20 miles north of the Naval Air Sta</p>
+          <code>unidentified:4, flying:1, object:18, light:3, radar:7, aircraft:2, sighting:4, witness:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 40</div>
+          <h3>001-65_HS1-834228961_62-HQ-83894_Section_10</h3>
+          <p class='meta'>page 92 · 11230 OCR chars · <a href='../converted/001-65_HS1-834228961_62-HQ-83894_Section_10/page-0092.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_10 - Page 92 128 ufo contact fantasy, others think that initially it had some meaning. Two centuries ago the mystery attracted the German astronomer, Johan Kepler, while more recently, scientists held an international symposium to discuss the matter. But neither Kepler nor contemporary scientists found the key to the problem, which may tur</p>
+          <code>ufo:19, flying:4, disc:2, object:2, light:3, photograph:2, witness:1</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 40</div>
+          <h3>004-65_HS1-834228961_62-HQ-83894_Section_4</h3>
+          <p class='meta'>page 177 · 4182 OCR chars · <a href='../converted/004-65_HS1-834228961_62-HQ-83894_Section_4/page-0177.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_4 - Page 177 Page 177 of 214 FLIGHT INSTRUCTIONS FLYIN&#x27; SAUCERS have flight characteristics very similar to airplanes. The SAUCER IS launched in identically the same manner as sailing your hat onto a hook--by spinning and forward motion. In order to fly in a straight line, the SAUCER must leave the hand in a level position. To curve the SA</p>
+          <code>flying:1, saucer:31, object:1, light:5</code>
+        </article>
+        
+
+        <article class='case-card'>
+          <div class='score'>signal 40</div>
+          <h3>005-65_HS1-834228961_62-HQ-83894_Section_5</h3>
+          <p class='meta'>page 29 · 3946 OCR chars · <a href='../converted/005-65_HS1-834228961_62-HQ-83894_Section_5/page-0029.md'>open transcript</a></p>
+          <p># 65_HS1-834228961_62-HQ-83894_Section_5 - Page 29 CONFIDENTIAL DIO-11ND Serial 38-49 23 June 1949 Subject: Unidentified Flying Objects - Report of. The valley through which source flew north, and the objects flew south, is roughly 12 miles wide. The floor of the valley is between 4000&#x27; to 5000&#x27; in elevation. The east side of the valley is dominated by Hart Mountain (8020&#x27; in e</p>
+          <code>unidentified:1, flying:2, object:31, light:2, sighting:2</code>
+        </article>
+        </div>
+</section>
+<section>
+  <h2>Term cloud for episode hooks</h2>
+  <div class='terms'><span>illegible <b>686</b></span>
+<span>handwritten <b>487</b></span>
+<span>nbsp <b>367</b></span>
+<span>office <b>287</b></span>
+<span>received <b>274</b></span>
+<span>justice <b>273</b></span>
+<span>united <b>261</b></span>
+<span>states <b>251</b></span>
+<span>left <b>245</b></span>
+<span>stamp <b>234</b></span>
+<span>director <b>229</b></span>
+<span>bottom <b>228</b></span>
+<span>date <b>215</b></span>
+<span>dept <b>209</b></span>
+<span>right <b>201</b></span>
+<span>bureau <b>200</b></span>
+<span>government <b>179</b></span>
+<span>investigation <b>174</b></span>
+<span>confidential <b>153</b></span>
+<span>federal <b>148</b></span>
+<span>august <b>139</b></span>
+<span>department <b>135</b></span>
+<span>ladd <b>130</b></span>
+<span>margin <b>127</b></span></div>
+</section>
+<section>
+  <h2>Data feeds for OBS / Program Deck</h2>
+  <ul>
+    <li><a href='data/ufo_stream_deck.json'>Stream deck JSON</a></li>
+    <li><a href='stream/queue_seed.json'>Queue seed JSON</a></li>
+    <li><a href='stream/comfyui_enhancement_plan.json'>ComfyUI enhancement plan</a></li>
+    <li><a href='stream/episode_clock.json'>Episode clock JSON</a></li>
+  </ul>
+</section>
+<footer>Generated 2026-05-08T17:26:55.138099+00:00. Fork: TheMindExpansionNetwork/UFO-USA. Preserve attribution and uncertainty.</footer>
+</body>
+</html>

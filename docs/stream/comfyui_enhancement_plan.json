@@ -1,0 +1,20 @@
+{
+  "mode": "template_waiting_for_endpoint",
+  "requires": [
+    "COMFYUI_BASE_URL or COMFY_CLOUD_API_KEY",
+    "API-format workflow JSON"
+  ],
+  "tasks": [
+    "upscale scanned document crops",
+    "contrast/denoise old document images",
+    "crop suspected object regions for side-by-side comparison",
+    "make stream-safe comparison panels: original vs enhanced vs OCR text",
+    "generate visual episode cards that are clearly labeled as illustrative, not evidence"
+  ],
+  "safety": {
+    "no_fake_evidence": true,
+    "label_ai_enhanced": true,
+    "keep_original_visible": true,
+    "do_not_present_generated_art_as_source": true
+  }
+}

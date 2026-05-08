@@ -1,0 +1,30 @@
+{
+  "cycle_minutes": 60,
+  "blocks": [
+    {
+      "minute": 0,
+      "title": "Open the vault",
+      "action": "Show source/repo/inventory stats."
+    },
+    {
+      "minute": 10,
+      "title": "Case card deep read",
+      "action": "AI summary with uncertainty labels."
+    },
+    {
+      "minute": 25,
+      "title": "Enhancement bench",
+      "action": "Crop/upscale/contrast queued source imagery; original stays on screen."
+    },
+    {
+      "minute": 40,
+      "title": "Cross-reference sprint",
+      "action": "Search agencies, dates, locations, repeated terms."
+    },
+    {
+      "minute": 55,
+      "title": "Viewer queue / next anomaly",
+      "action": "Pick next source-backed card."
+    }
+  ]
+}
